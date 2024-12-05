@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" dir="rtl">
       <LayoutComponent>
-        <body className="m-4">{children}</body>
+        <body className="">{children}</body>
       </LayoutComponent>
     </html>
   );

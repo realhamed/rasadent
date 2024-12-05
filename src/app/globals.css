@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "iransans-md";
+  src: url("../assets/fonts/IRANSansWeb\(FaNum\).ttf");
+}
+
+@font-face {
+  font-family: "iransans-bold";
+  src: url("../assets/fonts/IRANSansWeb\(FaNum\)_Bold.ttf");
+}
+
+@font-face {
+  font-family: "iransans-light";
+  src: url("../assets/fonts/IRANSansWeb\(FaNum\)_Light.ttf");
+}
+
+@font-face {
+  font-family: "iransans-ULight";
+  src: url("../assets/fonts/IRANSansWeb\(FaNum\)_UltraLight.ttf");
+}
+
+@font-face {
+  font-family: "iransans-black";
+  src: url("../assets/fonts/IRANSansWeb\(FaNum\)_Black.ttf");
+}
